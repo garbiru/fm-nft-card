@@ -15,7 +15,7 @@ const App = () => {
 						alt="NFT"
 					/>
 
-					<div className="absolute top-0 left-0 w-full h-full hidden justify-center items-center bg-cyan/70 group-hover:flex">
+					<div className="absolute top-0 left-0 w-full h-full hidden justify-center items-center bg-cyan/70 group-hover:flex hover:cursor-pointer rounded-lg">
 						<img src={eyeIcon} alt="view" />
 					</div>
 				</div>
